@@ -1,13 +1,19 @@
 {
   "qq_number": "3144525704",
   "group_number": "1103469694",
+  "updated_at": "2026-07-03T13:15:28+00:00",
   "skins": [
     {
       "name": "拟态兔熊字母脆脆_融合",
       "file": "拟态兔熊字母脆脆_融合.bdi",
       "thumb": "拟态兔熊字母脆脆_融合.bdi_py_26_light_thumb.png",
       "full": "拟态兔熊字母脆脆_融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "拟态猫猫可爱脆字母_融合",
+      "file": "拟态猫猫可爱脆字母_融合.bdi",
+      "thumb": "拟态猫猫可爱脆字母_融合.bdi_py_26_light_thumb.png",
+      "full": "拟态猫猫可爱脆字母_融合.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-03T13:14:01+00:00"
+  ]
 }
